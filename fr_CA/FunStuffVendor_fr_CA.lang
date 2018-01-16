@@ -1,14 +1,14 @@
 language.code=fr_CA
 language=Français (Canada)
-//TODO Translate [Reference] 'Greetings. I am {0-name}.'
+//TODO Translate [Reference] 'Mes salutations. Je suis {0-name}.'
 staxel.village.dialogue.FunStuffVendor.line:10000100=
-//TODO Translate [Reference] 'I sell many fine wares.'
+//TODO Translate [Reference] 'Je vend plein de belles marchandises.'
 staxel.village.dialogue.FunStuffVendor.line:10000200=
-//TODO Translate [Reference] 'Place the item back on my stall if you change your mind.'
+//TODO Translate [Reference] 'Replace l'objet sur mon étal si tu changes d'avis.'
 staxel.village.dialogue.FunStuffVendor.line:10000300=
-//TODO Translate [Reference] 'Thank you for your purchase.'
+//TODO Translate [Reference] 'Merci pour ton achat.'
 staxel.village.dialogue.FunStuffVendor.line:10000400=
-//TODO Translate [Reference] 'That's a fine item.'
+//TODO Translate [Reference] 'C'est un bel objet.'
 staxel.village.dialogue.FunStuffVendor.line:10000500=
-//TODO Translate [Reference] 'I will buy wares you place on the small table. Activate it once you are done.'
+//TODO Translate [Reference] 'J'acheterai les marchandises que tu poseras sur la petite table. Active la quand tu auras terminé.'
 staxel.village.dialogue.FunStuffVendor.line:10000600=
